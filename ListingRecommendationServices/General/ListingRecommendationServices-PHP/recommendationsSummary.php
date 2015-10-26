@@ -3,7 +3,7 @@
 error_reporting(E_ALL);  // Turn on all errors, warnings and notices for easier debugging
 
 //Seller Authorization Token
-$userAuthToken= 'Authorization:TOKEN AgAAAA**AQAAAA**aAAAAA**h4U+VQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6AFkYClDpOFogidj6x9nY+seQ**DAsAAA**AAMAAA**1n0K+TNjYPBF8ub+5yP8SCrdsAu/gLD3Av0k4QL0M9p+3PSyBvhH4I/Rh8Ak6myxkStmgeefyeYMletFPBqakSzjPkAxN09muQmkIoxObI4NGd7uTU7+rt/y/jBztIS6IK0xfsLuV5oBEomj5z2QYBYpp/Rmi/+7Fv7n8aP9wjHCtctB6VH3tecY4rpIRU6OFKk5qvwa1kBrtP8CBXkg8EKT47cHk7naYODkGuQZPWbtibSqnRG5zoEKFIKN0Sx0VVcAlmlFJCsGzr3nlZ1XM3xVtkBhbgAHmjFQhGur0bRnPnMwxGz4CYdMV9sz216J5vlGdmbW+ziYUJG7bAJncm3/BZDzI6QBirsk7k3SUgydtECAaF1gj+A8Y0tz9eCCxbqCvTovjE/jEZw6KT4FBpDCSSUkEs0EEVi+Z0JIsvU6hXB0JKHPIquYaE+oNylji56k+0GwWj1zYjSu1v4HfbvD0CPyvS7ssmsVOzBWl6eyII+KDPBlv45T46vHXUMgdpyyK8raIseFmmgrd7sfsS/L5LbJs3bS3VIR560qUJGMEbd/h43Uj7/3TDAbFpCcEDavDFrhjmmtxZq+fSdsD6b9xzBV4ZoA6UyMXHWvmHk6mcUxMj+Mei+Dmdl51ucMndaig5JLq1RrD3JoYWhFNVgmZRsGVNy8SXef+rGgniatx+qoneUCNIevHxF9HEWvIO0CsWsrjgjjoqAOoDx/kJnt5L6Joprg/mwYbyCEZrWRIa90vaBZq2zGqcANfnii';
+$userAuthToken= 'Authorization:TOKEN ADD SELLER TOKEN AND MAKE SURE THERE IS SPACE AFTER "TOKEN"';
 
 //Endpoint URL to Use
 $url = "https://svcs.ebay.com/services/selling/listingrecommendation/v1/item/recommendationsSummary";
